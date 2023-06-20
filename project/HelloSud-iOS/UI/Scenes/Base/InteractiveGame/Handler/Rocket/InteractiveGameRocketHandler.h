@@ -5,6 +5,7 @@
 
 #import <Foundation/Foundation.h>
 #import "InteractiveGameBaseHandler.h"
+#import "SudMGPWrapper.h"
 
 /// 火箭互动处理模块
 @interface InteractiveGameRocketHandler : InteractiveGameBaseHandler

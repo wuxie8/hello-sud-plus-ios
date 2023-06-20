@@ -40,3 +40,7 @@
 /// @return
 - (BOOL)checkIfPointInGameClickRect:(CGPoint)clickPoint;
 @end
+
+
+
+

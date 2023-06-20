@@ -4113,11 +4113,11 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = "HelloSud-iOS/HelloSud-iOS.entitlements";
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 99;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = P6FVM63RW6;
+				DEVELOPMENT_TEAM = P6AB8V9UFK;
 				ENABLE_BITCODE = NO;
 				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = armv7;
 				FRAMEWORK_SEARCH_PATHS = (
@@ -4149,9 +4149,9 @@
 					"$(PROJECT_DIR)/HelloSud-iOS/ThirdParty/SDImageSVGNativeCoder",
 				);
 				MARKETING_VERSION = 1.5.9;
-				PRODUCT_BUNDLE_IDENTIFIER = tech.sud.mgp.hello;
+				PRODUCT_BUNDLE_IDENTIFIER = co.cc.lespro;
 				PRODUCT_NAME = HelloSud;
-				PROVISIONING_PROFILE_SPECIFIER = HelloSudPlus_Dev;
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				TARGETED_DEVICE_FAMILY = 1;
 				VALIDATE_WORKSPACE = YES;
@@ -4166,10 +4166,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = "HelloSud-iOS/HelloSud-iOS.entitlements";
-				CODE_SIGN_IDENTITY = "iPhone Distribution";
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 99;
-				DEVELOPMENT_TEAM = P6FVM63RW6;
+				DEVELOPMENT_TEAM = P6AB8V9UFK;
 				ENABLE_BITCODE = NO;
 				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = armv7;
 				FRAMEWORK_SEARCH_PATHS = (
@@ -4201,9 +4201,9 @@
 					"$(PROJECT_DIR)/HelloSud-iOS/ThirdParty/SDImageSVGNativeCoder",
 				);
 				MARKETING_VERSION = 1.5.9;
-				PRODUCT_BUNDLE_IDENTIFIER = tech.sud.mgp.hello;
+				PRODUCT_BUNDLE_IDENTIFIER = co.cc.lespro;
 				PRODUCT_NAME = HelloSud;
-				PROVISIONING_PROFILE_SPECIFIER = Dis_Tech_Sud_Mgp_Hello;
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				TARGETED_DEVICE_FAMILY = 1;
 				VALIDATE_WORKSPACE = YES;
@@ -4220,7 +4220,7 @@
 				CODE_SIGN_ENTITLEMENTS = SudNFTQuickStart/SudNFTQuickStart.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = P6FVM63RW6;
+				DEVELOPMENT_TEAM = P6AB8V9UFK;
 				EXCLUDED_ARCHS = armv7;
 				GCC_PREFIX_HEADER = SudNFTQuickStart/App/PrefixHeader.pch;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -4237,7 +4237,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = tech.sud.mgp.hello;
+				PRODUCT_BUNDLE_IDENTIFIER = co.cc.lespro.gameliving;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -4253,7 +4253,7 @@
 				CODE_SIGN_ENTITLEMENTS = SudNFTQuickStart/SudNFTQuickStart.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = P6FVM63RW6;
+				DEVELOPMENT_TEAM = P6AB8V9UFK;
 				EXCLUDED_ARCHS = armv7;
 				GCC_PREFIX_HEADER = SudNFTQuickStart/App/PrefixHeader.pch;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -4270,7 +4270,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = tech.sud.mgp.hello;
+				PRODUCT_BUNDLE_IDENTIFIER = co.cc.lespro.gameliving;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -4283,10 +4283,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = P6FVM63RW6;
+				DEVELOPMENT_TEAM = P6AB8V9UFK;
 				ENABLE_BITCODE = NO;
 				EXCLUDED_ARCHS = armv7;
 				GCC_PREFIX_HEADER = QuickStart/App/PrefixHeader.pch;
@@ -4304,9 +4304,9 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = tech.sud.mgp.hello;
+				PRODUCT_BUNDLE_IDENTIFIER = co.cc.lespro.notification;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = Dev_Sud_MGP;
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -4318,10 +4318,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_IDENTITY = "iPhone Distribution";
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = P6FVM63RW6;
+				DEVELOPMENT_TEAM = P6AB8V9UFK;
 				ENABLE_BITCODE = NO;
 				EXCLUDED_ARCHS = armv7;
 				GCC_PREFIX_HEADER = QuickStart/App/PrefixHeader.pch;
@@ -4339,9 +4339,9 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = tech.sud.mgp.hello;
+				PRODUCT_BUNDLE_IDENTIFIER = co.cc.lespro.notification;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = Dis_Tech_Sud_Mgp_Hello;
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				TARGETED_DEVICE_FAMILY = 1;
 			};

@@ -6,6 +6,7 @@
 #import "InteractiveGameRocketHandler.h"
 #import "RocketSelectAnchorView.h"
 #import "InteractiveGameManager.h"
+#import <SudMGPWrapper/SudMGPWrapper.h>
 
 @interface InteractiveGameRocketHandler ()
 
